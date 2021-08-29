@@ -1,0 +1,67 @@
+/* login and signup page style */
+
+
+* {
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('Pics/1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+form {
+    width: 350px;
+    color: #000;
+    border-radius: 10px;
+}
+
+form p {
+    font-weight: bold;
+    font-size: large;
+}
+
+form .btn {
+    width: 80%;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+form input {
+    padding: 10px 0px 10px 30px;
+    width: 90%;
+    margin-top: 10px;
+    outline: none;
+    border: 1px solid;
+    border-radius: 40px;
+    font-weight: bold;
+}
+
+form a {
+    color: #000;
+    font-weight: bold;
+}
+
+form a:hover {
+    color: #000;
+}
+
+form .Sign p {
+    font-size: 15px;
+}
+
+
+
+.footer p {
+    font-weight: bold;
+    font-size: large;
+}

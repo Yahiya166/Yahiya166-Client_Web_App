@@ -1,0 +1,31 @@
+/* main page style */
+
+
+* {
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('Pics/img1.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+
+
+.navbarr {
+    border-bottom: 3px solid #fff;
+}
+
+.cardss {
+    width: 350px;
+    margin: auto;
+}

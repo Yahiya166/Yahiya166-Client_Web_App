@@ -1,0 +1,27 @@
+/* rishta page style */
+
+* {
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: transparent;
+}
+
+.navbar {
+    font-weight: bold;
+    font-size: large;
+}
+
+.head h2 {
+    font-weight: bold;
+}

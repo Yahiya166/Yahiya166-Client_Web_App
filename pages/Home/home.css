@@ -1,0 +1,42 @@
+/* home page style */
+
+* {
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: transparent;
+}
+
+.navbar {
+    font-weight: bold;
+    font-size: large;
+}
+
+.head h1 {
+    font-weight: bold;
+}
+
+.card h5 {
+    font-weight: bold;
+}
+
+.card_link a {
+    text-decoration: none !important;
+    color: #000;
+    font-size: large;
+}
+
+.card_link a:hover {
+    text-decoration: underline !important;
+    font-weight: bold;
+}
